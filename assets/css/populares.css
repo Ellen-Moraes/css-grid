@@ -1,0 +1,234 @@
+.populares {
+    padding: 3rem 0;
+    margin: 58px;
+}
+
+.app{
+    background-image: url(../img/fundo3.jpg);
+}
+
+.populares__conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem 0rem;
+}
+
+
+.populares__card {
+    background: #fffef7;
+    display: grid;
+    grid-template-areas: 
+        "card-imagem"
+        "card-corpo";
+    grid-template-columns: 100%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 15px 15px 15px;
+    height: 1%;
+}
+
+.slack1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.whats1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.tele1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.trello1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.skype1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.fort:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.pub:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.go:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.lol:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.gta:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.fort1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.pub1:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.slack2:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.whats2:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.go2:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.brawl:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.org:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.one:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.free:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+.mario:hover{
+        font-size: 16px;
+        transition: transformY(1s);
+        transform: scale(1.1);
+        transition: 0.8s;
+        box-shadow: 3px 3px 11px #f407cd, 2px 2px 6px #071ff4;
+    }
+
+.populares__card:last-child { 
+    margin-right: 0;
+}
+ 
+.populares__card___imagem {
+    grid-area: card-imagem;
+    height: 80%;
+    width: 100%;
+}
+
+.populares__card___corpo {
+    display: grid;
+    grid-area: card-corpo;
+    grid-row-gap: .5rem;
+    grid-template-areas: 
+        "card-cabecalho"
+        "card-conteudo";
+    grid-template-rows: 50px auto;
+}
+
+.populares__card___titulo {
+    color: #333333;
+    font-size: 1.5rem;
+}
+
+.populares__card___data {
+    color: #808080;
+    font-size: .9rem;
+    line-height: 20px;
+}
+
+.populares__card___descricao {
+    color: #333333;
+    line-height: 1.1;
+    text-align: justify;
+    padding-top: 25px;
+}
+
+.populares__titulo {
+    font-weight: 500;
+}
+
+.populares__itens {
+    margin: 10px 10px 50px 10px;
+}
+
+.populares__icone {
+    margin-right: .25rem;
+}
+
+
+.populares__cabecalho {
+    border-bottom: 1px solid #c009f8;
+    display: flex;
+    justify-content: space-between;
+    color: #ebe2e2;
+    padding-inline: 90px;
+    margin: 40px;
+}
+
+.populares__botao {
+    background: transparent;
+    border: none;
+    color: #ebe2e2;
+}
